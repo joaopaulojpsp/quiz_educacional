@@ -1,0 +1,94 @@
+/* 
+    Created on : 09/12/2016, 15:27:15
+    Author     : Joao_Paulo
+*/
+
+body{
+    background: #efefef;
+}
+.form-control{
+    font-size: 18px;
+    height: 40px;
+}
+footer{
+    background: #00bcbc;
+    color: #fff;
+    position: static;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    color:#fff;
+}
+footer a:hover{
+    color:#fff;
+}
+
+.navbar-verde{
+    background: #00cece;
+
+}
+.navbar-verde li a{
+    color: #fff;
+}
+.navbar-verde li a:hover{
+    background-color: #0aa;
+
+}
+.navbar-verde li a:visited{
+    background-color: #0bb;
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-brand:hover{
+    background: #0aa;
+    color: #fff;
+}
+
+form{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 5px 4px 3px #777;
+}
+
+h3{
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+}
+
+espaco_texto{
+    width: 100%;
+    padding: 5px;
+}
+
+select{
+    width: 20%;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: inset 1px 0.5px 0.5px #777;
+}
+.jumbotron-blue{
+    background: rgba(0,200,200,0.3);
+    border: 3px solid rgba(0,200,200,1);
+}
+.jumbotron-green{
+    background: rgba(0,200,0,0.3);
+    border: 3px solid rgba(0,200,0,1);
+}
+.scrool{
+    overflow: scroll;
+    height: 400px;
+}
+.capitalize{
+    text-transform: capitalize;
+}

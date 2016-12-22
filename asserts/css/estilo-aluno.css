@@ -1,0 +1,150 @@
+/* 
+    Created on : 09/12/2016, 15:32:40
+    Author     : Joao_Paulo
+*/
+body{
+    background: #efefef;
+}
+.form-control{
+    font-size: 18px;
+    height: 40px;
+}
+footer{
+    background: #0af;
+    color: #fff;
+    position: static;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    color:#fff;
+}
+footer a:hover{
+    color:#fff;
+}
+
+.navbar-azul{
+    background: #0af;
+
+}
+.navbar-azul li a{
+    color: #fff;
+}
+.navbar-azul li a:hover{
+    background-color: #0cf;
+}
+.navbar-azul li a:visited{
+    background-color: #0cd;
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-brand:hover{
+    background-color: #0cf;
+    color: #fff;
+}
+
+form{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 5px 4px 3px #777;
+}
+
+h3{
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+}
+
+.jumbotron-blue{
+    background: rgba(129,214,220,0.3);
+    border: 3px solid rgba(129,214,220,1);
+}
+.jumbotron-green{
+    background: rgba(0,200,0,0.3);
+    border: 3px solid rgba(0,200,0,1);
+}
+.jumbotron-red{
+    background: rgba(200,0,0,0.3);
+    border: 3px solid rgba(200,0,0,1);
+}
+.scrool{
+    overflow: scroll;
+    height: 400px;
+}
+.card{
+    padding: 10px;
+    box-shadow: 5px 3px 2px #777;
+    background-color: #fff;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.scoll-y{
+    max-height: 700px;
+    overflow-y: scroll;
+}
+hr{
+    color:#000;
+}
+.quiz{
+    border:1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.img-professor{
+    width:120px;
+    height:120px;
+}
+.nome-professor{
+    font-size: 20px;
+}
+.dados-quiz{
+    margin-top: 20px;
+}
+#responder-perguntas{
+    font-size: 22px;
+}
+.info{
+    font-size: 22px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    border: 2px solid #000;
+    margin-top: 40px;
+}
+
+.info h4{
+    font-size: 20px;
+    background:lightblue;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+.acertos{
+    background:#9c9;
+}
+.erros{
+    background:lightcoral;
+}
+.pontos{
+    background:orange;
+}
+.progress{
+    height: 30px;
+}
+.progress-bar{
+    padding-top:5px; 
+}
+.center{
+    text-align: center;
+}
+
