@@ -31,6 +31,7 @@ class Gerar_Pdf extends CI_Controller{
     
     public function resultado_em_pdf($id_quiz) {
         
+        echo "Um dois";
         
     }
     
